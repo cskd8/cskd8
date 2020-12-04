@@ -7,7 +7,7 @@ I'm cskd8, or cskd8, a member from [Digital Creators Club traP](https://trap.jp)
 
 ![cskd8's github stats](https://github-readme-stats.vercel.app/api?username=cskd8&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskd8&hide=html,C,Makefile&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskd8&hide=html,C,Makefile,TSQL&layout=compact)
 
 <!--
 **cskd8/cskd8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

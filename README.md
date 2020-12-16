@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm cskd8, or cskd8, a member from [Digital Creators Club traP](https://trap.jp).
+I'm cskd8, or xxpoxx, a member from [Digital Creators Club traP](https://trap.jp).
 🌱 I'm currently learning computer science in [Tokyo Institute of Technology](https://educ.titech.ac.jp/cs/eng/).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cskd8)](https://github.com/ryo-ma/github-profile-trophy)

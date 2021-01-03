@@ -6,7 +6,7 @@ I'm cskd8, or xxpoxx, a member from [Digital Creators Club traP](https://trap.jp
 [![trophy](https://github-profile-trophy.vercel.app/?username=cskd8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![cskd8's github stats](https://github-readme-stats.vercel.app/api?username=cskd8&show_icons=true&count_private=true&line_height=40&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskd8&hide=html,C,Makefile,TSQL&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskd8&hide=html,C,Makefile,TSQL&layout=compact&theme=radical)
 
 <!--
 **cskd8/cskd8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,8 +3,7 @@
 I'm cskd8, or xxpoxx, a member from [Digital Creators Club traP](https://trap.jp).
 🌱 I'm currently learning computer science in [Tokyo Institute of Technology](https://educ.titech.ac.jp/cs/eng/).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cskd8)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=cskd8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![cskd8's github stats](https://github-readme-stats.vercel.app/api?username=cskd8&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskd8&hide=html,C,Makefile,TSQL&layout=compact)

@@ -1,13 +1,8 @@
-### Hi there 👋
+<a href="https://twitter.com/cskd8"><img src="https://img.shields.io/badge/Twitter-cskd8-cyan"></a>&nbsp;<a href="https://www.facebook.com/profile.php?id=100044726481100"><img src="https://img.shields.io/badge/Facebook-Hiroki%20Sugiyama-blue"></a>&nbsp;<a href="https://cskd8.github.io"><img src="https://img.shields.io/badge/Portfolio-xxpoxx-green"></a>
 
-I'm xxpoxx, a member from [Digital Creators Club traP](https://trap.jp).
-
-🌱 I'm currently learning computer science in [Tokyo Institute of Technology](https://educ.titech.ac.jp/cs/eng/).
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cskd8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskd8&hide=html&theme=radical)
-![cskd8's github stats](https://github-readme-stats.vercel.app/api?username=cskd8&show_icons=true&count_private=true&line_height=40&theme=radical)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cskd8&show_icons=true&count_private=true&line_height=40&theme=radical">
+</div>
 
 
 <!--

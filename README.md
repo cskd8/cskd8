@@ -1,4 +1,4 @@
-<a href="https://twitter.com/cskd8"><img src="https://img.shields.io/badge/Twitter-cskd8-cyan"></a>&nbsp;<a href="https://www.facebook.com/profile.php?id=100044726481100"><img src="https://img.shields.io/badge/Facebook-Hiroki%20Sugiyama-blue"></a>&nbsp;<a href="https://cskd8.github.io"><img src="https://img.shields.io/badge/Portfolio-xxpoxx-green"></a>
+<a href="https://twitter.com/cskd8"><img src="https://img.shields.io/badge/Twitter-cskd8-cyan?style=flat-square&logo=appveyor"></a>&nbsp;<a href="https://www.facebook.com/profile.php?id=100044726481100"><img src="https://img.shields.io/badge/Facebook-Hiroki%20Sugiyama-blue?style=flat-square&logo=appveyor"></a>&nbsp;<a href="https://cskd8.github.io"><img src="https://img.shields.io/badge/Portfolio-xxpoxx-green?style=flat-square&logo=appveyor"></a>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cskd8&show_icons=true&count_private=true&line_height=40&theme=radical">
